@@ -127,8 +127,9 @@ Photo credits:
  - https://cm-web-news-files.s3.amazonaws.com/uploads/2017/04/menc-ftr-img-default-2400x1600.jpg
  - http://vpcomm.umich.edu/assets/brand/home/logo.png
  - http://www.svsu.edu/media/universitycommunications/imgs/universitycommunicationsimgs/logospng/SVSU-RED-BLOCK-copy.png
+ - https://brcf.medicine.umich.edu
 
-Mural- Meggs – Eastern Market Central Building, Wilkins at Russell Street
+Mural- Meggs â€“ Eastern Market Central Building, Wilkins at Russell Street
  
  Big thank you to Colleen van Lent from the University of Michigan School of Information and the UMSI 2018 Technical Workshops: Responsive Sites
 
