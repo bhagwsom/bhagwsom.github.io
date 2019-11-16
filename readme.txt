@@ -127,9 +127,17 @@ Photo credits:
  - https://cm-web-news-files.s3.amazonaws.com/uploads/2017/04/menc-ftr-img-default-2400x1600.jpg
  - http://vpcomm.umich.edu/assets/brand/home/logo.png
  - http://www.svsu.edu/media/universitycommunications/imgs/universitycommunicationsimgs/logospng/SVSU-RED-BLOCK-copy.png
- - https://brcf.medicine.umich.edu
+ - https://commons.wikimedia.org/wiki/File:Cme-group-logo.PNG
+ - http://gallery.wacom.com/gallery/59955457/Mumbai-Dabbawala-Logo-design
+ - https://www.foodlogistics.com/safety/article/12185699/chipotle-strikes-back
+ - http://multicultclassics.blogspot.com/2015/01/12372-pepsilive-for-now-meh.html
+ - https://adventure.com/dabbawalas-mumbai-india/
+ - https://www.catholiccharitiesdc.org/share/twitter-logo/
+ - https://www.playworks.org/maryland/event/rock-paper-scissors-tournament-2018/chipotle-logo/
+ - teenvogue.com/story/pepsi-commercial-kendall-jenner-reaction
+ - https://ec.europa.eu/jrc/en/event/workshop/big-data-migration-alliance-bd4m
 
-Mural- Meggs â€“ Eastern Market Central Building, Wilkins at Russell Street
+Mural- Meggs – Eastern Market Central Building, Wilkins at Russell Street
  
  Big thank you to Colleen van Lent from the University of Michigan School of Information and the UMSI 2018 Technical Workshops: Responsive Sites
 
